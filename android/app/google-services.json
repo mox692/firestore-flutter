@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "416758157223",
+    "firebase_url": "https://firestore-lesson-600ca.firebaseio.com",
+    "project_id": "firestore-lesson-600ca",
+    "storage_bucket": "firestore-lesson-600ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416758157223:android:2d1bd5fcdfdf48431b3082",
+        "android_client_info": {
+          "package_name": "com.example.firestore_connection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416758157223-f6li0cirrsd5dpem7nsv5i40nrk7g7li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_dl0MY8Hek9qaAx9FHxOyuRf6cyFFOUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416758157223-f6li0cirrsd5dpem7nsv5i40nrk7g7li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
